@@ -1,27 +1,47 @@
-<h1 align=left>Hello 👋 I'm D3XT3R!
-  
-Follow my handles:
-&nbsp;<a href="https://telegram.me/itsD3XT3R_07"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-&nbsp;<a href="https://github.com/itsD3XT3R07"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></h1>
+# Hello 👋 I'm D3XT3R! 
 
-<h1 align=left>  
-💡 Statistics:
-</h3>
+### Follow my handles:
+&nbsp;<a href="https://telegram.me/D3XT3R_07"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+&nbsp;<a href="https://github.com/itsD3XT3R07"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-<h1><a href="https://github.com/itsD3XT3R07">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=itsD3XT3R07&theme=dark&show_icons=true)">
-  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsD3XT3R07&theme=dark">
-</a></h1>
+<a href="https://github.com/D3XT3R_07">
+<img align="left" src="https://komarev.com/ghpvc/?username=itsD3XT3R07&label=Profile%20views&color=F78F57&style=flat" alt="itsD3XT3R07_Github_ProfileViews_Statistics">
+</a>
 
-## ⚡ About me:
-Hi, My name is **D3XT3R**. I am:
-- 👦🏻🇮🇳 He/Him from India
-- 💻 Passionate for building roms/modules/porting development
-- 🔒 Into security for paid/premium custom rom projects
+`` Current Count Of The Number Of Views Obtained Of This GitHub Page ``
 
-## 🗃 Projects i'm into:
-- [null]
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsD3XT3R07&label=Profile%20views&color=F78F57&style=flat" alt="D3XT3RStats" /> </p>
+# 💡 Statistics: 
+<a href="https://github.com/D3XT3R_07">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=itsD3XT3R07&theme=dark&show_icons=true)">
+</a>
+
+<a href="https://github.com/D3XT3R_07">
+<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsD3XT3R07&theme=dark">
+</a>
+
+### ⚡ About me:
+_**Hi, My name is D3XT3R 07. I am:**_
+- 👦🏻 He/Him from India 🇮🇳
+- 💻 Passionate for developing stuff for android like roms, kernels, modules and porting
+- 🔒 Into developing own security for paid/premium custom rom projects
+- 📦 Learning, coding and haunting to learn more and more!
+
+### 📱 Device(s) I own:
+- ⚓ Owning [OnePlus 3T](https://en.wikipedia.org/wiki/OnePlus_3T) | ``oneplus3t``
+- ⚓ Owning [Xiaomi Redmi Note 4](https://en.wikipedia.org/wiki/Redmi_Note_4) | ``mido``
+- ⚓ Owning [Xiaomi POCO F1](https://en.wikipedia.org/wiki/Xiaomi_Pocophone_F1) | ``beryllium``
+- ⚓ Owning [Xiaomi Redmi Note 5 Pro](https://en.wikipedia.org/wiki/Redmi_Note_5) | ``whyred``
+- ⚓ Owning [OnePlus 7T](https://en.wikipedia.org/wiki/OnePlus_7T) | ``hotdogb`` 
+- ⚓ Owning [Xiaomi Redmi Note 7 Pro](https://en.wikipedia.org/wiki/Redmi_Note_7) | ``violet``
+- ⚓ Owning [POCO F5 5G](https://www.gsmarena.com/xiaomi_poco_f5-12258.php) | ``marble``
+- ⚓ Owning [OnePlus 12R 5G](https://www.gsmarena.com/oneplus_12r-12727.php) | ``aston`` 
+
+### 🧠 Languages I know:
+- [Hypertext Markup Language [HTML] ](https://en.wikipedia.org/wiki/HTML)
+- [Cascading Style Sheets [CSS] ](https://en.wikipedia.org/wiki/CSS)
+- [Extensible Markup Language [XML] ](https://en.wikipedia.org/wiki/XML)
+- [JavaScript [JS] ](https://en.wikipedia.org/wiki/JavaScript)
+- [Python [PY] ](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 ## ⚡ Technologies
 Here is a list of technologies that i have experience and mastered with:
