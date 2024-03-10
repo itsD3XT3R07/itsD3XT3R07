@@ -44,7 +44,7 @@ _**Hi, My name is D3XT3R 07. I am:**_
 - [Python [PY] ](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 ## ⚡ Technologies
-Here is a list of technologies that i have experience and mastered with:
+**_Here is a list of technologies that i have experience and mastered with:_**
 
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Canva](https://img.shields.io/badge/Canva-%42d1f5.svg?style=for-the-badge&logo=Canva&logoColor=FFFFFF)](https://www.canva.com)
