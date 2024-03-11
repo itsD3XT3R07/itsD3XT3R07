@@ -10,7 +10,6 @@
 
 `` Current Count Of The Number Of Views Obtained Of This GitHub Page ``
 
-# 💡 Statistics: 
 <a href="https://github.com/D3XT3R_07">
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=itsD3XT3R07&theme=dark&show_icons=true)">
 </a>
